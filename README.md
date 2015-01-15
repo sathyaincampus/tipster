@@ -3,7 +3,7 @@
 
 (For Prework assignment)
 
-This is a tip calculator iOS application developed by following the steps and video given in the prework assignment steps of CodePath. See the [RottenTomatoes Networking Tutorial](http://guides.thecodepath.com/android/RottenTomatoes-Networking-Tutorial) on our cliffnotes for a step-by-step tutorial.
+This is a tip calculator iOS application developed by following the steps and video given in the prework assignment steps of CodePath.
 
 Time spent: 8 hours spent in total (including training)
 
